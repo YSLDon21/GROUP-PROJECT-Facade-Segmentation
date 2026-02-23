@@ -1,5 +1,5 @@
 # facade-analysis-ai
-Project that analyzes facades images with segmentation
+This project calculates the area of AutoCAD building facades, excluding doors and windows, using segmentation. The segmentation model has been trained using AutoCAD images provided by the stakeholder and annotations of the images created by us. The accuracy of the final model is around 90%, but it's important to note that the train/val/test datasets were small (hundreds) due to time constraints and the facades used for training were not the most complex.
 
 
 --------------------------------------------------------
